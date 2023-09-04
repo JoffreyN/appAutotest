@@ -86,7 +86,7 @@ import sys,os,HTMLReport
 
 
 
-# changeChannel()
+changeChannel()
 # print(getInfoJSON('292233',env='uat'))
 # ableBalance=getAvailableBalance('292233',env='uat')
 # money=100000000-float(ableBalance['data']['HKD'].replace(',',''))
