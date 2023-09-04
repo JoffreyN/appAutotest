@@ -39,11 +39,11 @@ import sys,os,HTMLReport
 
 # loginBO('uat')
 
-for i in range(10):
-	print(f'第 {i+1} 个')
-	os.system('python3 regWeb.py -e uat --margin --check --active --ttl --regbyapi')# TTL开户
-	# os.system('python regWeb.py --margin --check --active --setPwd -e uat --headless')# 一般投资者
-	# os.system('python regWeb.py --margin --check --active --setPwd -e uat --pi --headless')# 专业投资者
+# for i in range(10):
+# 	print(f'第 {i+1} 个')
+# 	os.system('python3 regWeb.py -e uat --margin --check --active --ttl --regbyapi')# TTL开户
+# 	# os.system('python regWeb.py --margin --check --active --setPwd -e uat --headless')# 一般投资者
+# 	# os.system('python regWeb.py --margin --check --active --setPwd -e uat --pi --headless')# 专业投资者
 
 
 
